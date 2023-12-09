@@ -24,7 +24,7 @@ This project focuses on developing a stock management application designed to ad
 
 ## Links
 
-- [Live Application](#)
+- [Live Application](https://stockify.heromarket.co.za/)
 - [Back End Docs](https://inventorymanagement-7i2p.onrender.com/api-docs/)
 - [GitHub Source Code](https://github.com/McDonaldMusimwa/InventorySystemTypescript.git)
 
